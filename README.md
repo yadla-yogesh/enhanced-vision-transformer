@@ -16,5 +16,5 @@ This project presents a deep learning-based solution for classifying plant leaf 
 - PyTorch  
 - Hugging Face Transformers  
 - PIL / OpenCV  
-- Gradio (for UI)  
-- Google Colab (for training and deployment)  
+- Gradio 
+- Google Colab  
